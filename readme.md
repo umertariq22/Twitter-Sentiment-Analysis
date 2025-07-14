@@ -103,15 +103,6 @@ The sentiment of tweets is classified as **positive**, **neutral**, or **negativ
 
 ---
 
-## 🖼️ Visualizations
-
-- **Sentiment Distribution**: Pie chart of negative, neutral, positive
-- **Word Clouds**:
-  - Positive tweets ☁️
-  - Negative tweets ☁️
-
----
-
 ## 💻 Installation
 
 ```bash
